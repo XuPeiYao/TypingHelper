@@ -1,0 +1,6 @@
+D:\KeywordSearch\TypingHelper\bin\TypingHelper.dll.config
+D:\KeywordSearch\TypingHelper\bin\TypingHelper.dll
+D:\KeywordSearch\TypingHelper\bin\TypingHelper.pdb
+D:\KeywordSearch\TypingHelper\obj\Debug\TypingHelper.csprojResolveAssemblyReference.cache
+D:\KeywordSearch\TypingHelper\obj\Debug\TypingHelper.dll
+D:\KeywordSearch\TypingHelper\obj\Debug\TypingHelper.pdb

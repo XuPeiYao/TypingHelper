@@ -1,0 +1,29 @@
+﻿{
+  "name": "Typing Helper for Facebook™",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "content_scripts": [
+    {
+      "matches": [ "*://www.facebook.com/messages/*" ],
+      "js": [
+        "systemExtensions.js",
+        "HttpClient.js",
+        "Dictionary.js",
+        "app.js"
+      ],
+      "all_frames": true
+    }
+  ],
+  "permissions": [
+    "declarativeContent",
+    "tabs",
+    "downloads",
+    "https",
+    "*://www.moedict.tw/"
+  ],
+  "icons": {
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
+  "manifest_version": 2
+}
